@@ -1,0 +1,10 @@
+apt update
+pkg upgrade
+pkg install git
+pkg install python
+pkg install python2
+pip2 install requests
+pip2 install mechanize
+https://github.com/wahabratab/Shehenshah
+cd shehenshah
+python2 shehenshah.py
